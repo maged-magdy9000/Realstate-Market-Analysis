@@ -48,7 +48,8 @@ wite a python script using BEAUTIFUL SOUP library to scrapping dataset real stat
 
 ### Step 2:Exploratory data analysis
 
-- using pandas library methods like info(),describe(),isnull(),duplicated(),dropna(),apply(),unique(),split(),groupby() 
+- using pandas library methods like 
+- info(), describe(), isnull() ,duplicated() , dropna(), apply(), unique(), split(), groupby() 
 and more many methods.
 
 ### Step 3:Data Wrangling
